@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.main{
+    text-align: center;
+}
+
+header{
+    margin-top: 128px;
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: fantasy;
+}
+
+.typefects{
+    
+
+}
+
+
+.textohome{
+    text-align: center;
+    margin-bottom: 20px;
+    margin: 0 100px;
+    color: white;
+
+}
+
+#frase{
+    text-align: center;
+    font-size: small;
+    color: #b11313;
+    font-family: fantasy;
+}
+
+
+.rodape{
+    background-color: white;
+    clear: both;
+}
+
+.textosobre{
+    text-align: justify;
+    margin-bottom: 20px;
+    margin: 0 100px;
+    color: white;
+}
+
+h3{
+    text-align: justify;
+    margin-bottom: 20px;
+    margin: 0 100px;
+
+}
+
+.breadcrumb{
+    background-color: #b11313;
+}
+
+.textbread{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.card{
+    margin-top: 50px;
+    background-color: #b11313;
+    color: whitesmoke;
+    margin-left: 85px;
+    float: left;
+    margin-bottom: 50px;
+
+}
+
+#efeitofadein{
+
+}
+
+.linkmarvel{
+    color: #b11313;
+}
+
+.linksony{
+    color: #b11313;
+}
+
+
+/* KEY FRAMES AQUI*/
+
+@keyframes fade-up{
+    0% {
+        opacity: 0;
+        transform: translateY(30px) scale(0,9);
+    }
+}
